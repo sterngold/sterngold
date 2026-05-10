@@ -14,5 +14,5 @@ The philosophy comes from Günther Anders (1956): humans feel ashamed of being i
 **What I'm building:**
 - **Anderson** — sovereign AI engine. Local-first, your hardware, your data, your rules.
 
-Based in Amsterdam. Writing as Francis Anders.
+Based in Amsterdam.
 
