@@ -7,11 +7,12 @@ I build sovereign AI tools for people who'd rather own their intelligence than r
 The philosophy comes from Günther Anders (1956): humans feel ashamed of being inferior to their own creations. The practice comes from 25 years of being the person in the room who doesn't quite fit.
 
 **What's running:**
+- [sterngold.ai](https://sterngold.ai) — personal hub
 - [werkanders.com](https://werkanders.com) — coaching practice for AI transformation
-- [sterngold.nl](https://sterngold.nl) — personal hub
-- [eventradar](https://eventradar-site.pages.dev) — event discovery engine (Amsterdam, London, Frankfurt, Sofia)
+- [The Symbiotic Mind](https://github.com/sterngold/the-symbiotic-mind) — writing on human-AI symbiosis
 
 **What I'm building:**
-- **Anders Loc** — local-first AI platform. Your hardware, your data, your rules.
+- **Anderson** — sovereign AI engine. Local-first, your hardware, your data, your rules.
 
 Based in Amsterdam. Writing as Francis Anders.
+
