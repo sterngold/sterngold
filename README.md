@@ -4,7 +4,9 @@
 
 ### I don't just talk about AI — I build with it.
 
-**Sovereign AI tools · agents · platforms.** Six careers. Coaching the human–AI shift.
+**Sovereign AI tools · agents · platforms.** Coaching the human–AI shift.
+
+*Six careers: kitchens · military · startups · Booking.com · Danone · now this.*
 
 📍 Amsterdam, NL
 
