@@ -12,6 +12,7 @@
 [![WerkAnders](https://img.shields.io/badge/werkanders.com-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://werkanders.com)
 [![The Symbiotic Mind](https://img.shields.io/badge/The_Symbiotic_Mind-8957E5?style=for-the-badge&logo=substack&logoColor=white)](https://github.com/sterngold/the-symbiotic-mind)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sterngold/)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://vladsterngold.substack.com/)
 
 </div>
 
