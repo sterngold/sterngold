@@ -4,6 +4,26 @@
 
 ### I don't just talk about AI — I build with it.
 
+### AI operating cadence  
+_As of 29.05.26_
+
+I measure AI fluency by operating cadence, not tenure.
+
+**Usage cadence**
+
+**92.3% Claude Code active-day adoption** — about **6.5 days/week**, compared with OpenAI’s benchmark that frequent workplace AI users engage **4+ days/week**.
+**178 prompts/day** — roughly **36×** the broad active-user baseline implied by OpenAI’s **2.5B daily messages across 500M+ active users**.
+**192.8 prompts/active day** — close to the **200+ messages/day** range OpenAI identifies for some ChatGPT Pro power users.
+**~13 Claude Code sessions/day**, with **12 median prompts/session** — compared with Anthropic’s published **4.1 human turns** per Claude Code transcript reference.
+
+**Output footprint**
+
+**1,648 commits**, **36 commit-active days**, **4,404 unique files touched**, **90 added spec files**, and **74 added test files**.
+For context, GitClear reports a median active-developer benchmark of **417 commits/year** across **156 active days**, or about **2.7 commits/active day**.
+My local footprint is **45.8 commits/active commit day**, which I read carefully as a solo-founder, multi-branch, AI-assisted workflow signal, not a productivity scoreboard.
+
+The point is not that more prompts or commits are automatically better. The point is that AI is embedded deeply enough in my workflow to create a measurable **build / write / verify** operating footprint.
+
 **Sovereign AI tools · agents · platforms.** Coaching the human–AI shift.
 
 *Six careers: kitchens · military · startups · Booking.com · Danone · now this.*
