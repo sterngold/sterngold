@@ -54,7 +54,7 @@ The philosophy comes from **Günther Anders (1956)**: humans grow ashamed of bei
 | **[anders-repo-template](https://github.com/sterngold/anders-repo-template)** | Model-agnostic baseline for every repo — `AGENTS.md` + CI + pre-commit + branch-protection scripts. |
 | **[notebooklm-skill](https://github.com/sterngold/notebooklm-skill)** | A Claude skill that drives NotebookLM end-to-end. |
 
-🔒 = private (most of the workshop is local-first and stays that way — health, finance, client and IP work never leaves my hardware).
+🔒 = private/local-first work that is intentionally not mirrored on public GitHub.
 
 ## 🛠️ Stack
 
@@ -69,15 +69,9 @@ The philosophy comes from **Günther Anders (1956)**: humans grow ashamed of bei
 
 ## 📊 The workshop
 
-<div align="center">
+Most of my work happens in private, local-first repos. The public profile shows selected artifacts, writing, and reusable tools.
 
-![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=sterngold&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sterngold&layout=compact&hide_border=true&count_private=true&theme=tokyonight)
-
-</div>
-
-> Most of my commits live in private repos — the numbers above show the public slice.
-> The real cadence: **~5,000 contributions in the last year.**
+The real cadence: **~5,000 contributions in the last year.**
 
 ---
 
