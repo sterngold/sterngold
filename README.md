@@ -2,79 +2,66 @@
 
 # Vlad Sterngold
 
-### I don't just talk about AI — I build with it.
+### I build local-first AI systems and coach professionals through the human-AI shift.
 
-### AI operating cadence  
-_As of 29.05.26_
+I work at the edge where AI becomes daily practice: personal operating systems, sovereign tooling, and coaching for people who need to stay capable while the tools around them accelerate. My public GitHub shows selected artifacts; much of the real work is private by design because it runs on personal data, local machines, and client context.
 
-I measure AI fluency by operating cadence, not tenure.
-
-**Usage cadence**
-
-**92.3% Claude Code active-day adoption** — about **6.5 days/week**, compared with OpenAI’s benchmark that frequent workplace AI users engage **4+ days/week**.
-**178 prompts/day** — roughly **36×** the broad active-user baseline implied by OpenAI’s **2.5B daily messages across 500M+ active users**.
-**192.8 prompts/active day** — close to the **200+ messages/day** range OpenAI identifies for some ChatGPT Pro power users.
-**~13 Claude Code sessions/day**, with **12 median prompts/session** — compared with Anthropic’s published **4.1 human turns** per Claude Code transcript reference.
-
-**Output footprint**
-
-**1,648 commits**, **36 commit-active days**, **4,404 unique files touched**, **90 added spec files**, and **74 added test files**.
-For context, GitClear reports a median active-developer benchmark of **417 commits/year** across **156 active days**, or about **2.7 commits/active day**.
-My local footprint is **45.8 commits/active commit day**, which I read carefully as a solo-founder, multi-branch, AI-assisted workflow signal, not a productivity scoreboard.
-
-The point is not that more prompts or commits are automatically better. The point is that AI is embedded deeply enough in my workflow to create a measurable **build / write / verify** operating footprint.
-
-**Sovereign AI tools · agents · platforms.** Coaching the human–AI shift.
-
-*Six careers: kitchens · military · startups · Booking.com · Danone · now this.*
-
-📍 Amsterdam, NL
-
-[![Website](https://img.shields.io/badge/sterngold.ai-0A0A0A?style=for-the-badge&logo=icloud&logoColor=white)](https://sterngold.ai)
+[![sterngold.nl](https://img.shields.io/badge/sterngold.nl-0A0A0A?style=for-the-badge&logo=icloud&logoColor=white)](https://sterngold.nl)
+[![sterngold.ai](https://img.shields.io/badge/sterngold.ai-111827?style=for-the-badge&logo=icloud&logoColor=white)](https://sterngold.ai)
 [![WerkAnders](https://img.shields.io/badge/werkanders.com-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://werkanders.com)
-[![The Symbiotic Mind](https://img.shields.io/badge/The_Symbiotic_Mind-8957E5?style=for-the-badge&logo=substack&logoColor=white)](https://github.com/sterngold/the-symbiotic-mind)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sterngold/)
-[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://vladsterngold.substack.com/)
+[![The Symbiotic Mind](https://img.shields.io/badge/Symbiotic_Mind-8957E5?style=for-the-badge&logo=substack&logoColor=white)](https://symbiotic-mind.com)
 
 </div>
 
 ---
 
-## 🧠 What I'm building
+## What I Build
 
-Sovereign, local-first AI for people who'd rather **own their intelligence than rent it.**
+| Area | Public proof | What it demonstrates |
+|---|---|---|
+| Personal OS / sovereign AI | [sterngold.nl](https://sterngold.nl) | A public-facing view of a private AI operating system: local-first tools, memory, agents, and identity infrastructure. |
+| AI tooling | [anders-repo-template](https://github.com/sterngold/anders-repo-template), [notebooklm-skill](https://github.com/sterngold/notebooklm-skill) | Reusable infrastructure for working with AI agents without losing repo discipline, source grounding, or verification habits. |
+| Human-AI writing and coaching | [WerkAnders](https://werkanders.com), [The Symbiotic Mind](https://symbiotic-mind.com) | The human side of AI adoption: agency, judgment, shame, capability, and collaboration design. |
 
-The philosophy comes from **Günther Anders (1956)**: humans grow ashamed of being inferior to their own creations. The practice comes from 25 years of being the person in the room who doesn't quite fit.
+## Selected Work
 
 | Project | What it is |
-|---------|-----------|
-| **Anderson** 🔒 | Sovereign AI engine — RAG, methodology, local models. Your hardware, your data, your rules. |
-| **[WerkAnders](https://werkanders.com)** | Coaching practice for the AI transformation — for professionals meeting a machine that doesn't sleep. |
-| **[The Symbiotic Mind](https://github.com/sterngold/the-symbiotic-mind)** | Writing on human–AI symbiosis, with Milena Nikolova. |
-| **[anders-repo-template](https://github.com/sterngold/anders-repo-template)** | Model-agnostic baseline for every repo — `AGENTS.md` + CI + pre-commit + branch-protection scripts. |
-| **[notebooklm-skill](https://github.com/sterngold/notebooklm-skill)** | A Claude skill that drives NotebookLM end-to-end. |
+|---|---|
+| **Personal OS** | A private, local-first operating system for my own life and work. The public site shows the experience; the core repo stays private because it touches personal context and local infrastructure. |
+| **Anderson** | A sovereign AI engine for local RAG, methodology, and personal knowledge workflows. Private/local by design: your hardware, your data, your rules. |
+| **[anders-repo-template](https://github.com/sterngold/anders-repo-template)** | A model-agnostic repo baseline so Claude Code, Codex, Cursor, Aider, and humans all read the same conventions. |
+| **[notebooklm-skill](https://github.com/sterngold/notebooklm-skill)** | A Claude Code skill that lets an agent query NotebookLM notebooks for source-grounded answers from uploaded documents. |
+| **[The Symbiotic Mind](https://github.com/sterngold/the-symbiotic-mind)** | Writing on AI x HI: not "how to use AI better," but how to design the relationship between human and machine intelligence. |
 
-🔒 = private/local-first work that is intentionally not mirrored on public GitHub.
+## Personal OS Preview
 
-## 🛠️ Stack
+<p align="center">
+  <img src="assets/personal-os-home.jpg" alt="sterngold.nl Personal OS homepage" width="30%" />
+  <img src="assets/personal-os-brain.jpg" alt="Personal OS AI Brain page" width="30%" />
+  <img src="assets/personal-os-agents.jpg" alt="Personal OS Agents page" width="30%" />
+</p>
+
+## Stack And Working Style
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift_/_SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude_/_Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift_/_SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_/_Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
-## 📊 The workshop
+I prefer local-first systems, explicit repo conventions, verification over vibes, and public artifacts that explain the work without exposing private context.
 
-Most of my work happens in private, local-first repos. The public profile shows selected artifacts, writing, and reusable tools.
+## Evidence, Not Theater
 
-The real cadence: **~5,000 contributions in the last year.**
+AI is embedded in my daily build/write/verify loop. The signal is not "more prompts" or "more commits" as a scoreboard; it is that the tools are used deeply enough to produce inspected artifacts, reusable systems, and public writing.
+
+Recent local operating footprint: thousands of contributions, frequent AI-assisted coding sessions, new specs, tests, screenshots, and deployment-ready public surfaces. I treat those numbers as evidence of cadence, not a claim that speed alone equals quality.
 
 ---
 
 <div align="center">
-<i>Build with what you'd be proud to depend on.</i>
+<i>Build with what you would be proud to depend on.</i>
 </div>
