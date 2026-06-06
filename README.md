@@ -21,7 +21,7 @@ I work at the edge where AI becomes daily practice: personal operating systems, 
 | Area | Public proof | What it demonstrates |
 |---|---|---|
 | Personal OS / sovereign AI | [sterngold.nl](https://sterngold.nl) | A public-facing view of a private AI operating system: local-first tools, memory, agents, and identity infrastructure. |
-| AI tooling | [anders-repo-template](https://github.com/sterngold/anders-repo-template), [notebooklm-skill](https://github.com/sterngold/notebooklm-skill) | Reusable infrastructure for working with AI agents without losing repo discipline, source grounding, or verification habits. |
+| AI tooling | [PromptTranslator](https://github.com/sterngold/prompt-translator), [anders-repo-template](https://github.com/sterngold/anders-repo-template), [notebooklm-skill](https://github.com/sterngold/notebooklm-skill) | Reusable infrastructure for working with AI agents without losing repo discipline, source grounding, or verification habits. |
 | Human-AI writing and coaching | [WerkAnders](https://werkanders.com), [The Symbiotic Mind](https://symbiotic-mind.com) | The human side of AI adoption: agency, judgment, shame, capability, and collaboration design. |
 
 ## Selected Work
@@ -30,6 +30,7 @@ I work at the edge where AI becomes daily practice: personal operating systems, 
 |---|---|
 | **Personal OS** | A private, local-first operating system for my own life and work. The public site shows the experience; the core repo stays private because it touches personal context and local infrastructure. |
 | **Anderson** | A sovereign AI engine for local RAG, methodology, and personal knowledge workflows. Private/local by design: your hardware, your data, your rules. |
+| **[PromptTranslator](https://github.com/sterngold/prompt-translator)** | A product case study for an AI prompt interpreter: translates messy human intent into clearer machine-readable instructions. |
 | **[anders-repo-template](https://github.com/sterngold/anders-repo-template)** | A model-agnostic repo baseline so Claude Code, Codex, Cursor, Aider, and humans all read the same conventions. |
 | **[notebooklm-skill](https://github.com/sterngold/notebooklm-skill)** | A Claude Code skill that lets an agent query NotebookLM notebooks for source-grounded answers from uploaded documents. |
 | **[The Symbiotic Mind](https://github.com/sterngold/the-symbiotic-mind)** | Writing on AI x HI: not "how to use AI better," but how to design the relationship between human and machine intelligence. |
