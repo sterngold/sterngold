@@ -55,6 +55,12 @@ I work at the edge where AI becomes daily practice: personal operating systems, 
 
 I prefer local-first systems, explicit repo conventions, verification over vibes, and public artifacts that explain the work without exposing private context.
 
+## Security And Disclosure
+
+Several linked systems are public artifacts around private/local infrastructure.
+Please do not open public issues for vulnerabilities or accidental disclosure.
+Use the reporting path in [SECURITY.md](SECURITY.md).
+
 ## Evidence, Not Theater
 
 AI is embedded in my daily build/write/verify loop. The signal is not "more prompts" or "more commits" as a scoreboard; it is that the tools are used deeply enough to produce inspected artifacts, reusable systems, and public writing.
