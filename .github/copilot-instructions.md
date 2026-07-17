@@ -8,7 +8,7 @@
 
 ## Workflow and Git
 
-- Work in an isolated task checkout: use a new worktree for local app work or the provider's isolated sandbox for cloud work. Use a conventional, task-based branch and commit name; never use an agent name as the branch prefix.
+- Work in an isolated task checkout: use a new worktree for local Copilot work or the provider's isolated sandbox for cloud work. Use a conventional, task-based branch and commit name; never use an agent name as the branch prefix.
 - Keep the diff narrow, verify every affected link and asset reference, and stage only intended paths.
 - Never push directly to `main`, force-push `main`, merge a pull request, bypass hooks, or publish private operational detail. Open a pull request and wait for the required `ci` check before merge.
 - Resolve every review thread or explain the evidence for rejecting it. Copilot review is advisory and does not replace CI or owner approval.
@@ -24,11 +24,11 @@ This is a static profile repository with no local build, lint, or unit-test comm
 
 ```bash
 git diff --check
-git diff --name-only --diff-filter=ACMRTUXB
+git diff --name-only --diff-filter=ACDMRTUX
 ```
 
 Review changed Markdown links and asset paths against files in the checkout. GitHub Actions runs the secret scan in `.github/workflows/ci.yml`; its aggregate required check is `ci`. Do not claim the secret scan passed until that check is green.
 
 ## Review priorities
 
-Prioritize silent failures, boundary validation, tests, security, unresolved review threads. Also review accidental private disclosure, unsupported public claims, broken links/assets, and rendering regressions.
+Prioritize silent failures, boundary validation, tests when present (otherwise CI checks), security, unresolved review threads. Also review accidental private disclosure, unsupported public claims, broken links/assets, and rendering regressions.
