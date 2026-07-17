@@ -8,14 +8,14 @@
 
 ## Workflow and Git
 
-- Use a new task-named branch in an isolated worktree. Use a conventional, task-based branch and commit name; never use an agent name as the branch prefix.
+- Work in an isolated task checkout: use a new worktree for local app work or the provider's isolated sandbox for cloud work. Use a conventional, task-based branch and commit name; never use an agent name as the branch prefix.
 - Keep the diff narrow, verify every affected link and asset reference, and stage only intended paths.
 - Never push directly to `main`, force-push `main`, merge a pull request, bypass hooks, or publish private operational detail. Open a pull request and wait for the required `ci` check before merge.
 - Resolve every review thread or explain the evidence for rejecting it. Copilot review is advisory and does not replace CI or owner approval.
 
 ## Dependencies and security
 
-- This repository has no application dependency manifest. Do not add a top-level dependency, package manifest, lockfile, build system, or lifecycle script without explicit approval from the owner and the required AndersSecurity dependency record.
+- This repository has no application dependency manifest. Do not add a top-level dependency, package manifest, lockfile, build system, or lifecycle script without explicit approval from the owner and a repository-local security rationale in the pull request.
 - Never commit credentials, `.env` files, personal data, private infrastructure details, or generated artifacts.
 
 ## Repository commands
