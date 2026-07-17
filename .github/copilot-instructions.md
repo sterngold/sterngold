@@ -10,7 +10,7 @@
 
 - Work in an isolated task checkout: use a new worktree for local Copilot work or the provider's isolated sandbox for cloud work. Use a conventional, task-based branch and commit name; never use an agent name as the branch prefix.
 - Keep the diff narrow, verify every affected link and asset reference, and stage only intended paths.
-- Never push directly to `main`, force-push `main`, merge a pull request, bypass hooks, or publish private operational detail. Open a pull request and wait for the required `ci` check before merge.
+- Never push directly to `main`, force-push `main`, merge a pull request without owner approval, bypass hooks, or publish private operational detail. Open a pull request and wait for the required `ci` check before merge.
 - Resolve every review thread or explain the evidence for rejecting it. Copilot review is advisory and does not replace CI or owner approval.
 
 ## Dependencies and security
