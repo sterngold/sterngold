@@ -2,9 +2,9 @@
 
 # Vlad Sterngold
 
-### I build local-first AI systems and coach professionals through the human-AI shift.
+### I mentor professionals through the human-AI shift and build sovereign, local-first AI systems.
 
-I work at the edge where AI becomes daily practice: personal operating systems, sovereign tooling, and coaching for people who need to stay capable while the tools around them accelerate. My public GitHub shows selected artifacts; much of the real work is private by design because it runs on personal data, local machines, and client context.
+I work at the edge where AI becomes daily practice: mentoring people who need to stay capable while the tools around them accelerate, and building personal operating systems and sovereign, local-first tooling. My public GitHub shows selected artifacts; much of the real work is private by design because it runs on personal data, local machines, and client context.
 
 [![sterngold.nl](https://img.shields.io/badge/sterngold.nl-0A0A0A?style=for-the-badge&logo=icloud&logoColor=white)](https://sterngold.nl)
 [![sterngold.ai](https://img.shields.io/badge/sterngold.ai-111827?style=for-the-badge&logo=icloud&logoColor=white)](https://sterngold.ai)
@@ -21,7 +21,7 @@ I work at the edge where AI becomes daily practice: personal operating systems, 
 | Area | Public proof | What it demonstrates |
 |---|---|---|
 | Personal OS / sovereign AI | [sterngold.nl](https://sterngold.nl) | A public-facing view of a private AI operating system: local-first tools, memory, agents, and identity infrastructure. |
-| Human-AI writing and coaching | [WerkAnders](https://werkanders.com), [The Symbiotic Mind](https://symbiotic-mind.com) | The human side of AI adoption: agency, judgment, shame, capability, and collaboration design. |
+| Human-AI writing and mentoring | [WerkAnders](https://werkanders.com), [The Symbiotic Mind](https://symbiotic-mind.com) | The human side of AI adoption: agency, judgment, shame, capability, and collaboration design. |
 
 ## Selected Work
 
