@@ -34,10 +34,15 @@ jobs:
     steps:
       - name: aggregate
         run: |
-          for r in "${{ needs.gitleaks.result }}"; do
-            if [ "$r" = "failure" ] || [ "$r" = "cancelled" ]; then
-              echo "Upstream job failed: $r"
-              exit 1
-            fi
-          done
+          # Allowlist, not denylist. A job that never got a runner reports
+          # "abandoned", which a failure/cancelled check let through. Unconditional
+          # gates must succeed; only a job with a job-level `if:` may be skipped.
+          gate() {  # $1 = job, $2 = result, $3 = results it may have
+            echo "$1=$2"
+            case " $3 " in
+              *" $2 "*) ;;
+              *) echo "Upstream job $1 did not succeed: '${2}' (allowed: $3)"; exit 1 ;;
+            esac
+          }
+          gate gitleaks "${{ needs.gitleaks.result }}" "success"
           echo "All required checks passed."
